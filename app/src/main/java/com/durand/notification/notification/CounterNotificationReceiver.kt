@@ -1,4 +1,4 @@
-package com.durand.notification
+package com.durand.notification.notification
 
 import android.content.BroadcastReceiver
 import android.content.Context

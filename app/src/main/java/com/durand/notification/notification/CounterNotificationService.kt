@@ -1,10 +1,12 @@
-package com.durand.notification
+package com.durand.notification.notification
 
 import android.app.PendingIntent
 import android.content.Context
 import android.content.Intent
 import android.os.Build
 import androidx.core.app.NotificationCompat
+import com.durand.notification.MainActivity
+import com.durand.notification.R
 
 class CounterNotificationService(
     private val context: Context,
